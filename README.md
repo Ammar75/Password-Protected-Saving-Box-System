@@ -1,0 +1,2 @@
+# Password-Protected Saving Box System
+ This project implements a secure embedded system using an AVR microcontroller to control access to a digital safe. It features a 4-digit password authentication stored in EEPROM, an LCD display for user interaction, and a keypad for password input. The system checks if a password is stored, allows setting a new one if not, and provides up to 3 login attempts before lockout. It demonstrates EEPROM memory handling, user input validation, and secure access control in embedded applications.
